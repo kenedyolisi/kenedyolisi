@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Calculator PWA.
-- 🌱 Just realized that there is still a lot I don't know about Github so currently I'm learning GitHub.
 - 💬 You can ask me about Frontend Development since that is my area of expertise and I'll be glad to help whenever I can.
 - 👯 I am looking to collaborate on HTML, CSS and Javascript Projects.
