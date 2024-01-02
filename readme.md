@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬 You can ask me about Frontend Development since that is my area of expertise and I'll be glad to help whenever I can.
-- 👯 I am looking to collaborate on HTML, CSS (SCSS), Bootstrap, Javascript (TypeScript), and React Projects.
+- 💬 You can ask me about Frontend Development and I'll be glad to help whenever I can.
+- 👯 I am looking to collaborate on HTML, CSS (SCSS), Bootstrap, Javascript (TypeScript), React, and Astro Projects.
