@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 💬 You can ask me about Frontend Development and I'll be glad to help whenever I can.
-- 👯 I am looking to collaborate on: 
+- 👯 I am looking to collaborate on the following projects: 
     - HTML
     - CSS(SCSS)
     - Bootstrap
@@ -25,4 +25,3 @@ Here are some ideas to get you started:
     - Svelte
     - React
     - Astro
-  projects.
