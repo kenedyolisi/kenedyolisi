@@ -22,4 +22,4 @@ Here are some ideas to get you started:
     - TailwindCSS
     - JavaScript/TypeScript
     - Svelte
-    - Astro
+    - Sveltekit
